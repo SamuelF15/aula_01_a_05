@@ -38,3 +38,5 @@ try:
     print(f"Parabéns {nome} tem um bônus de R$ {resultado_bonus:.2f}")
 except KeyboardInterrupt:
     print("\nPrograma encerrado pelo usuário.")
+
+    
