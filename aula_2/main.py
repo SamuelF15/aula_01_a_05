@@ -6,7 +6,7 @@ print("-" * 25)
 # Loop para o nome
 while True:
     nome = input("*Qual o seu nome? ").strip()
-    if not nome:
+    if not nome or nome.isspace:
         print("Campo obrigatório! Por favor, coloque seu nome.")
         continue
     break
