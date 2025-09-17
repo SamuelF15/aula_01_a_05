@@ -1,3 +1,4 @@
+# Era para fazer a tipagem usando "Type Hint" mas fiz na aula_3 sem querer kkkk  
 fixo: int = 1000
 print("-" * 25)
 print("Vamos calcular seu Bônus!!!")
